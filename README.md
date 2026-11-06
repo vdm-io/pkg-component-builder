@@ -1,4 +1,4 @@
-# Component Builder Package (v6.2.1-alpha1)
+# Component Builder Package (v6.2.1-alpha2)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system for Joomla 6.
 
@@ -6,7 +6,7 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
-- Creation Date: October 2026
+- Creation Date: November 2026
 - Max Joomla Version: J6.3
 - Minimum Joomla Version: J6.0
 
