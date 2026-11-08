@@ -32,6 +32,8 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 > 4.x
 - [joomla/plg_content_componentbuilderdynamicgetheaderstabs](https://git.vdm.robot/joomla/plg_content_componentbuilderdynamicgetheaderstabs) [4.x](https://git.vdm.robot/joomla/plg_content_componentbuilderdynamicgetheaderstabs/archive/4.x.zip)
 > 4.x
+- [joomla/plg_extension_componentbuilderactionlogcompiler](https://git.vdm.robot/joomla/plg_extension_componentbuilderactionlogcompiler) [4.x](https://git.vdm.robot/joomla/plg_extension_componentbuilderactionlogcompiler/archive/4.x.zip)
+> 4.x
 - [joomla/plg_extension_componentbuilderexportcompiler](https://git.vdm.robot/joomla/plg_extension_componentbuilderexportcompiler) [4.x](https://git.vdm.robot/joomla/plg_extension_componentbuilderexportcompiler/archive/4.x.zip)
 > 4.x
 - [joomla/plg_extension_componentbuilderfieldorderingcompiler](https://git.vdm.robot/joomla/plg_extension_componentbuilderfieldorderingcompiler) [4.x](https://git.vdm.robot/joomla/plg_extension_componentbuilderfieldorderingcompiler/archive/4.x.zip)
