@@ -33,7 +33,6 @@
 		<file type="plugin" id="ComponentBuilderPrivacyTabs" group="content">joomla__plg_content_componentbuilderprivacytabs__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderSiteHeadersTabs" group="content">joomla__plg_content_componentbuildersiteheaderstabs__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderDynamicgetHeadersTabs" group="content">joomla__plg_content_componentbuilderdynamicgetheaderstabs__4.x.zip</file>
-		<file type="plugin" id="ComponentBuilderActionLogCompiler" group="extension">joomla__plg_extension_componentbuilderactionlogcompiler__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderExportCompiler" group="extension">joomla__plg_extension_componentbuilderexportcompiler__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderFieldOrderingCompiler" group="extension">joomla__plg_extension_componentbuilderfieldorderingcompiler__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderHeadersCompiler" group="extension">joomla__plg_extension_componentbuilderheaderscompiler__4.x.zip</file>
