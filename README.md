@@ -14,6 +14,8 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 
 - [joomla/Component-Builder](https://git.vdm.robot/joomla/Component-Builder) [4.x](https://git.vdm.robot/joomla/Component-Builder/archive/4.x.zip)
 > 4.x
+- [joomla/plg_content_componentbuilderadminheaderstabs](https://git.vdm.robot/joomla/plg_content_componentbuilderadminheaderstabs) [4.x](https://git.vdm.robot/joomla/plg_content_componentbuilderadminheaderstabs/archive/4.x.zip)
+> 4.x
 - [joomla/plg_content_componentbuildercomponentdashboardheaderstabs](https://git.vdm.robot/joomla/plg_content_componentbuildercomponentdashboardheaderstabs) [4.x](https://git.vdm.robot/joomla/plg_content_componentbuildercomponentdashboardheaderstabs/archive/4.x.zip)
 > 4.x
 - [joomla/plg_content_componentbuildercomponentheaderstabs](https://git.vdm.robot/joomla/plg_content_componentbuildercomponentheaderstabs) [4.x](https://git.vdm.robot/joomla/plg_content_componentbuildercomponentheaderstabs/archive/4.x.zip)

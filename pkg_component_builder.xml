@@ -24,6 +24,7 @@
 	</languages>
 	<files folder="src">
 		<file type="component" id="com_componentbuilder">joomla__Component-Builder__4.x.zip</file>
+		<file type="plugin" id="ComponentBuilderAdminHeadersTabs" group="content">joomla__plg_content_componentbuilderadminheaderstabs__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderComponentDashboardHeadersTabs" group="content">joomla__plg_content_componentbuildercomponentdashboardheaderstabs__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderComponentHeadersTabs" group="content">joomla__plg_content_componentbuildercomponentheaderstabs__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderCustomAdminHeadersTabs" group="content">joomla__plg_content_componentbuildercustomadminheaderstabs__4.x.zip</file>
