@@ -2,7 +2,7 @@
 <extension version="6.0" type="package" method="upgrade">
 	<name>PKG_COMPONENT_BUILDER</name>
 	<packagename>component_builder</packagename>
-	<version>6.2.1</version>
+	<version>6.3.0-alpha1</version>
 	<creationDate>November 2026</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
