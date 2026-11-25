@@ -1,4 +1,4 @@
-# Component Builder Package (v5.2.1)
+# Component Builder Package (v5.3.0-alpha1)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system for Joomla 5.
 
@@ -48,7 +48,7 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 > 5.x
 - [joomla/plg_console_componentbuildercommands](https://git.vdm.robot/joomla/plg_console_componentbuildercommands) [5.x](https://git.vdm.robot/joomla/plg_console_componentbuildercommands/archive/5.x.zip)
 > 5.x
-- [joomla-pre-test/plg_webservices_componentbuilderapiroutes](https://git.vdm.robot/joomla-pre-test/plg_webservices_componentbuilderapiroutes) [5.x](https://git.vdm.robot/joomla-pre-test/plg_webservices_componentbuilderapiroutes/archive/5.x.zip)
+- [joomla/plg_webservices_componentbuilderapiroutes](https://git.vdm.robot/joomla/plg_webservices_componentbuilderapiroutes) [5.x](https://git.vdm.robot/joomla/plg_webservices_componentbuilderapiroutes/archive/5.x.zip)
 > 5.x
 
 ### Copyright (2015)
