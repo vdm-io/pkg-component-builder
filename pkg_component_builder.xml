@@ -2,7 +2,7 @@
 <extension version="4.3" type="package" method="upgrade">
 	<name>PKG_COMPONENT_BUILDER</name>
 	<packagename>component_builder</packagename>
-	<version>4.2.1</version>
+	<version>4.3.0-alpha1</version>
 	<creationDate>November 2026</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
@@ -41,6 +41,6 @@
 		<file type="plugin" id="ComponentBuilderPowersAutoloaderCompiler" group="extension">joomla__plg_extension_componentbuilderpowersautoloadercompiler__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderPrivacyCompiler" group="extension">joomla__plg_extension_componentbuilderprivacycompiler__4.x.zip</file>
 		<file type="plugin" id="ComponentBuilderCommands" group="console">joomla__plg_console_componentbuildercommands__4.x.zip</file>
-		<file type="plugin" id="ComponentBuilderApiRoutes" group="webservices">joomla-pre-test__plg_webservices_componentbuilderapiroutes__4.x.zip</file>
+		<file type="plugin" id="ComponentBuilderApiRoutes" group="webservices">joomla__plg_webservices_componentbuilderapiroutes__4.x.zip</file>
 	</files>
 </extension>
